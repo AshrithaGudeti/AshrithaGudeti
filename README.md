@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ashritha Gudeti
 
-Welcome to my GitHub profile! I’m a passionate Computer Science professional specializing in software development, cloud computing, and innovative tech solutions. I enjoy solving complex problems and contributing to impactful projects.
+I’m a passionate Computer Science professional specializing in software development, cloud computing, and innovative tech solutions. I enjoy solving complex problems and contributing to impactful projects.
 
 ---
 
